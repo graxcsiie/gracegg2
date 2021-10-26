@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>Latihan HTML</title>
+        <link rel="shortcut icon" href="icon.png">
+    </head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grace.GG</title>
+    <body>
+        <h1>Grace Alicia 7E/13 🙋‍♀️</h1>
+        
+        <!-- Menu -->
+        Menu:
+        <ol> 
+            <li>Pergi ke <a href="#Judul">judul.</a></li>
+            <li>Pergi ke <a href="#Sub Judul">sub judul.</a></li>
+        </ol>
+        <!-- halaman 2 level yang sama -->
+        Halaman 2 ⬇
+        <a href="halaman2.html">Page 2.</a>
+        <br>
+        Google ⬇
+        <a href="https://bit.ly/3tXGGH9">Google.</a>
+        <br>
+        YouTube ⬇
+        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">YouTube.</a>
+        <br>
+        <!-- halaman 3 level yang beda -->
+        Halaman 3 ⬇
+        <a href="webpage/halaman3.html">Page 3.</a>
+
+        <!-- Link a = anchor -->
+        <!-- h1234 = heading -->
+        <!-- h7 = normal text -->
+        <!-- p = paragraf -->
+        <!-- windows + . = funny emoji hahah 👴-->
+        <!-- pre = menampilkan teks apa adanya-->
+        <!-- br = untuk memberi enter pada konten -->
+        <!-- b = bold, i = italic, u = underline -->
+        <!-- biu for all bolditalicunderline -->
+        <!-- sup = superscript -->
+        <!-- sub = subscript -->
+        <!-- hr = horizontal rule-->
+        <!-- list yang bisa dihitung pake ol -->
+        <!-- ol = orderlist -->
+        <!-- p style="color:blue" untuk warna teks -->
+        <!-- ol type="" = a,A,i,I,1 -->
+        <!-- ol start="" = 1,2,3,4,.. (harus angka) -->
+        <!-- ul = unorderlist type disc default, circle, dan square-->
+        <!-- dl = definition list, dt = definition term, dd = definition description -->
+        <!-- Images = img-->
+        <!-- id = identity for element -->
+
+        <h1 id="Judul">"👵 Judul 👵"</h1>
+        <h7>HTML Website.</h7>
+        <h8>very funny nonsense dum loremipsumweirdlymake contectn yea BITNSCD</h8>
+        <br>
+        <hr size="5px" width="100%" align="right" color="black">
+        <br>
+        <h2>"👵 Align 👵"</h2>
+        <p align="center"><b>Center.</b></p>
+        <p align="left"><i>Left.</i></p>
+        <p align="right"><b>Right.</b></p>
+        <br>
+        <hr size="2px" width="100%" align="center" color="red">
+        <br>
+        <h1 id="Sub Judul">"👵 Sub Judul 👵"</h1>
+        <br>
+        <p>Lorem ipsum dolor <b>Lorem, ipsum.</b>, amet consectetur <b>adipisicing elit</b>. Blanditiis ullam voluptatibus consequatur optio itaque, <i>quaerat nam soluta</i> est saepe debitis. Quae blanditiis in ipsam, vel, natus tenetur quia <u>voluptate</u> dolorum nisi veniam, suscipit nobis quis quos ut molestias neque eaque autem? Reprehenderit <i>dolor laboriosam</i>, ea temporibus <u> voluptate</u> veniam expedita pariatur.</p>
+
+        <br>
+
+        <p><u>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odio assumenda natus molestiae numquam, soluta vero nisi veniam dolor atque repellendus alias vitae fugit a esse omnis. Placeat, cumque? Doloremque minima architecto unde non nisi delectus tenetur, repellat corporis dicta quia consequuntur libero placeat sint voluptates doloribus atque, autem rerum, deleniti possimus perferendis magnam? Iure expedita, eaque totam ex aliquid eius, illo nihil sint cum earum sit rem incidunt saepe deleniti nulla assumenda voluptas! Minus, quasi quas. Magnam quibusdam minus consequuntur amet rem, doloremque tempore, perspiciatis soluta porro inventore similique ut provident iste ad accusamus qui totam eum reiciendis.</u></p>
+        
+        <br>
+
+        <p><b>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam eos iure est aut error dolorum ipsa corrupti repudiandae veritatis nemo, necessitatibus quas quasi, numquam illo deserunt. Fuga, nulla at. Iure animi sunt exercitationem iste, ducimus sapiente, iusto nam quas libero a quo, fuga enim doloribus eos consequuntur necessitatibus illo soluta vel at magni dolorum consectetur. Quo doloremque labore odit blanditiis eum earum tempora non. Obcaecati doloremque velit quo culpa deleniti, itaque accusamus commodi dolorum similique ad in quaerat sed laborum reiciendis, sunt numquam quidem nostrum qui rem enim, saepe aperiam modi. Repellat neque doloribus, ex quibusdam nisi, repellendus dolores quod et, deserunt odio sed non pariatur! Impedit fugiat itaque tempora, omnis odit placeat in blanditiis autem reprehenderit! Aliquam, cupiditate officia?</b></p>
+
+        <br>
+
+        <p style="color:blue">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia, libero itaque in voluptates illum ullam adipisci consectetur accusantium <b><u><i>impedit fugiat</i></u></b>, voluptatum eius! Repellendus voluptatibus deleniti quam optio pariatur sed culpa molestias consectetur, harum ipsa ad architecto iure? Laborum nam consequuntur labore ratione quod iure aspernatur qui?</p>
+
+        <br>
+
+        <p><i>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Id enim amet, cupiditate incidunt tempora autem aspernatur, asperiores vitae labore accusantium, pariatur quis repudiandae placeat dolorum est delectus quibusdam architecto nisi harum.</i></p>
+
+        <hr size="1px" width="100%" align="center" color="green">
+        
+        <pre>OLOlfaofmaomg                                space yuh        LOL SIUFNUIPNFU          bruh what the heyl bruh meme JHAHDAUHIP</pre>
+        
+
+        test for BR
+        <br>
+        <br>
+        <br>
+        ya boi BR
+
+        E=Mc2
+        <br>
+        E=McBORGER<sup>epicborger</sup>
+        <br>
+        E=mcdonaldsborger<sup>2</sup>
+        <br>
+        <br>
+        E=mcborgerepikyumyum H<sub>2</sub>0
+        <br>
+        <br>
+        H<sub>2</sub>O
+        O<sub>2</sub>
+        CO<sub>2</sub>
+
+        <hr size="8px" width="100%" align="center" color="blue">
+
+        <h7>List yang bisa dihitung:</h7>
+        <ol type="I">
+            <li>Ok</li>
+            <li>Ko</li>
+            <li>Okok</li>
+        </ol>
+
+        <h7>List yang bisa dihitung:</h7>
+        <ol type="1">
+            <li>Ok</li>
+            <li>Ko</li>
+            <li>Okok</li>
+        </ol>
+
+        <h7>List yang bisa dihitung:</h7>
+        <ol type="A">
+            <li>Ok</li>
+            <li>Ko</li>
+            <li>Okok</li>
+        </ol>
+
+        <h7>List yang bisa dihitung:</h7>
+        <ol type="a">
+            <li>Ok</li>
+            <li>Ko</li>
+            <li>Okok</li>
+        </ol>
+
+        <h7>Tidak bisa dihitung:</h7>
+        <ul>
+            <li>Mainan</li>
+            <li>Masakan</li>
+        </ul>
+
+        <dl>
+            <dt>HTML</dt>
+            <dd>Hypertext Markup Language</dd>
+            <dt>CSS</dt>
+            <dd>Cascading Style Sheet</dd>
+        </dl>
+
+        Nested List: <br>
+        Ukuran Baju
+        <ul>
+            <li>Kaos</li>
+                <ol>
+                    <li>Size S</li>
+                        <ol>
+                            <li>Satu.</li>
+                            <li>Dua.</li>
+                        </ol>
+                    <li>Size M</li>
+                        <ol>
+                            <li>Satu.</li>
+                            <li>Dua.</li>
+                        </ol>
+                    <li>Size L</li>
+                        <ol>
+                            <li>Satu.</li>
+                            <li>Dua.</li>
+                        </ol>
+                    <li>Sixe XL</li>
+                        <ol>
+                            <li>Satu.</li>
+                            <li>Dua.</li>
+                        </ol>
+                </ol>
+            <li>Celana Panjang</li>
+                <ol>
+                    <li>Size S</li>
+                        <ol>
+                            <ul>UL</ul>
+                        </ol>
+                    <li>Size M</li>
+                        <ol>
+                            <ul>UL</ul>
+                        </ol>
+                    <li>Size L</li>
+                        <ol>
+                            <ul>UL</ul>
+                        </ol>
+                    <li>Sixe XL</li>
+                        <ol>
+                            <ul>UL</ul>
+                        </ol>
+                </ol>
+            <li>Celana Pendek</li>
+                <ol>
+                    <li>Size S</li>
+                    <li>Size M</li>
+                    <li>Size L</li>
+                    <li>Sixe XL</li>
+                </ol>
+        </ul>
+
+        <h1> Table. </h1>
+        <table border="1" cellspacing="5" cellpadding="5">
+            <tr>
+                <th bgcolor="blue">Judul</th>
+                <td>Baris 1, Kolom 1</td>
+                <td>Baris 1, Kolom 2</td>
+            </tr>
+            <tr bgcolor="red">
+                <th>Judul</th>
+                <td>Baris 2, Kolom 1</td>
+                <td>Baris 2, Kolom 2</td>
+            </tr>
+        </table>
+
+        <table border="1" cellspacing="0" height="50%">
+            <tr>
+                <td>Judul 1</td>
+                <td>Judul 2</td>
+            </tr>
+
+            <tr>
+                <td colspan="2" align="center">Baris 1</td>
+            </tr>
+
+            <tr>
+                <td rowspan="2" align="center">Baris 2</td>
+                <td>Baris 2, Kolom 2</td>
+            </tr>
+
+            <tr>
+                
+                <td>Baris 3, Kolom 2</td>
+            </tr>
+        </table>
+        <h1 align="center">Testing</h1>
+        <img src="image/lilnasxmeme.jpg" alt="lil nas x was here" width="500px" height="500px" title="meme nas x" align="right">
+
+        <br>
+        <hr size="10px" width="100%" align="center" color="yellow">
+        <h1 align="center">Copyrighted © material.</h1>
+    </body>
+
+</html>
